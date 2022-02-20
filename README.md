@@ -13,3 +13,9 @@ ReactJs -> props and state
 Bootstrap for CSS styling
 Font Awesome for icons like youtube, facebook etc
 
+/****Bootstrap*****/
+import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap/dist/js/bootstrap.bundle";
+
+/*******Font Awesome*****/
+import "font-awesome/css/font-awesome.css";
